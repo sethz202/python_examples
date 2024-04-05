@@ -1,1 +1,1 @@
-The folder contains a project that I completed in my Database Design course this last fall, and the individual file `request_example.py` is a quick example that I wrote up to display my python formatting style.
+The folder contains a project that I completed in my Database Design course this last fall, and the individual file **request_example.py** is a quick example that I wrote up to display my python formatting style.
